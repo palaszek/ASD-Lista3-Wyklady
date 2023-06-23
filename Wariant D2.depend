@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669562427 source:c:\users\kubap\desktop\3 semestr materia£y\asd\sprawozdanie nr3 a i d\wariant d2\main.cpp
+	<iostream>
+	<algorithm>
+	"poprzednie_zadanie.h"
+
+1669561282 source:c:\users\kubap\desktop\3 semestr materia£y\asd\sprawozdanie nr3 a i d\wariant d2\poprzednie_zadanie.cpp
+	<iostream>
+	"poprzednie_zadanie.h"
+
+1669561282 c:\users\kubap\desktop\3 semestr materia£y\asd\sprawozdanie nr3 a i d\wariant d2\poprzednie_zadanie.h
+
